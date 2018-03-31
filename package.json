@@ -1,0 +1,23 @@
+{
+  "name": "plain",
+  "version": "1.0.0",
+  "description": "plain, html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calba5141114/plain.git"
+  },
+  "keywords": [
+    "plain",
+    "html"
+  ],
+  "author": "HOSS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calba5141114/plain/issues"
+  },
+  "homepage": "https://github.com/calba5141114/plain#readme"
+}
