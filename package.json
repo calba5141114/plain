@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/calba5141114/plain/issues"
   },
-  "homepage": "https://github.com/calba5141114/plain#readme"
+  "homepage": "https://github.com/calba5141114/plain#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
